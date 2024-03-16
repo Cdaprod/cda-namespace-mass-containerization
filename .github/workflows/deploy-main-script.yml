@@ -34,6 +34,6 @@ jobs:
           context: .
           push: true
           tags: |
-            docker.io/CdaProd/your-repo-name:latest
-            ghcr.io/CdaProd/your-repo-name:latest
+            docker.io/cdaProd/cda-namespace-mass-containerization:latest
+            ghcr.io/cdaProd/cda-namespace-mass-containerization:latest
           platforms: linux/amd64,linux/arm64
