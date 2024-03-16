@@ -1,3 +1,5 @@
+[![Docker Build and Push](https://github.com/Cdaprod/cda-namespace-mass-containerization/actions/workflows/deploy-main-script.yml/badge.svg)](https://github.com/Cdaprod/cda-namespace-mass-containerization/actions/workflows/deploy-main-script.yml)
+
 # GitHub Repository Dockerization and CI/CD Automation
 
 This script automates the process of configuring GitHub repositories for Docker containerization and sets up continuous integration and deployment (CI/CD) workflows using GitHub Actions. Designed for efficiency and scalability, it streamlines the setup for Docker and CI/CD across multiple repositories within a GitHub user's account.
